@@ -63,6 +63,12 @@ a:hover {
     background-color: green;
 }
 
+.message-form {
+    font-weight: 500;
+    width: 50%;
+    background-color: rgb(185, 224, 185);
+}
+
 .form {
     font-size: 20px;
     font-weight: 200;
