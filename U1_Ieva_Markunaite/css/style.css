@@ -1,0 +1,53 @@
+body {
+    font-family: 'Exo', sans-serif;
+    background-color: #f8f8f8;
+}
+
+.nav-img {
+    height: 60px;
+    margin: 20px;
+}
+
+header {
+    background-color: #ffffff;
+}
+
+.bottom-card-icons {
+    margin-top: -20px;
+    padding: 0% 3% 5% 5%;
+}
+
+h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.card-title,
+.fas {
+    color: #6eb92b;
+}
+
+.btn-primary {
+    background-color: #6eb92b;
+    color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: #b1c59f;
+}
+
+.card-text {
+    color: #697070;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+a {
+    text-decoration: none;
+}
+
+#success-message {
+    display: none;
+    background-color: green;
+}
