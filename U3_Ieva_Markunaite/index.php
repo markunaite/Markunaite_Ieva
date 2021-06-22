@@ -101,7 +101,7 @@ include("connect.php");
                     ?>
 
     </section>
-    <section>
+    <section class="form">
         <div class="album py-5 bg-light">
             <div class="container">
                 <form id="course-form" onsubmit="validateForm(); return false;">
